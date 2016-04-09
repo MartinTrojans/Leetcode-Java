@@ -69,7 +69,7 @@ public class Client extends JFrame {
 			}
 		});
 
-		username.setText("changyong");
+		username.setText("Martin");
 		hostAddress.setText("127.0.0.1");
 		port.setText("5050");
 
